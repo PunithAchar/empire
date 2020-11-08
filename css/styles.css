@@ -1,0 +1,170 @@
+.navbar{
+  background-color: blue;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-family: serif;
+  font-weight: bold;
+}
+
+h1 {
+    color: #fff;
+    font-family: serif;
+    font-weight: lighter;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: serif;
+  font-weight: bolder;
+  padding-top: 7%;
+  padding-right: 15%;
+  padding-left: 15%;
+  padding-bottom: 0%;
+  margin: 0%;
+  color: #686d76;
+}
+
+h3 {
+  background-color: #686d76;
+  padding-top: 3%;
+  padding-right: 5%;
+  padding-left: 10%;
+  padding-bottom: 3%;
+  margin-bottom: 3%;
+  font-size: 2rem;
+  color: #fff;
+}
+h5{
+  font-size: 2rem;
+}
+
+p1 {
+text-align: center;
+color: #fff;
+font-family: sans-serif;
+font-weight: lighter;
+}
+
+p{
+  font-family: serif;
+  margin: 2px;
+  text-align: center;
+}
+
+
+ /* home-testimonials SECTION */
+
+#testimonials {
+  padding: 20% 15%;
+  text-align: center;
+  height: 400px;
+}
+
+/* properties */
+
+ .container-fluid{
+  width: 100%;
+}
+
+.responsive{
+  width: 100%;
+  height:80%;
+  padding-top: 10%;
+  padding-bottom: 3%;
+}
+
+.row {
+ padding-top: 0%;
+ padding-left: 5%;
+ padding-right: 5%;
+ padding-bottom: 7%;
+  margin: 0%;
+}
+
+/* HOW IT WORKS */
+
+#howitworks {
+  background-color: #37cfa2;
+}
+
+.feature {
+  padding: 7% 5%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 7% 2% ;
+}
+
+.far {
+  color:#fff;
+}
+.feature-item {
+  color: #000;
+  padding-top: 2%;
+}
+
+/* REAL ESTATE AGENTS */
+
+.card-deck{
+  margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 10%;
+}
+
+.card {
+  align-items: center;
+  padding:2% 5%;
+  border-color: #000;
+  border-radius: 2rem;
+  border-width:thin;
+
+}
+.icon {
+  color:#37cfa2;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.card-txt{
+  text-align: center;
+}
+
+/* CONTACT US */
+
+#contact {
+  background-color: #686d76;
+}
+.contact-head{
+  padding: 3% 5%;
+  font-size: 2.5rem;
+
+  text-align: center;
+  font-weight:bold;
+  font-family: sans-serif;
+}
+
+.form-label {
+  color: #000;
+  font-size: 1rem;
+  font-weight:bold;
+}
+
+.form-body{
+padding-left: 10%;
+}
+
+.form-fill{
+  border-radius:1rem;
+}
+
+.developer-info{
+  text-align: center;
+  padding: 5%;
+}
